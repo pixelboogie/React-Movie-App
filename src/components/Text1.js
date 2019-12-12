@@ -1,11 +1,11 @@
-import React, {Components} from 'react';
+import React from 'react';
 
-class Text1 extends Component {
-    render(){
-        return (
-            <p>Hello from Text1</p>
-        )
-    }
-}
+const Text1 = props => {
+    
+        return <span className="fab fa-imdb fa-5x" />;
+           
+        
+    
+};
 
 export default Text1;
