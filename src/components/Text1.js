@@ -1,3 +1,5 @@
+// he deleted this?
+
 import React from 'react';
 
 const Text1 = props => {
