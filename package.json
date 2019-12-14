@@ -1,6 +1,6 @@
 {
   "name": "movies-and-series-info",
-  "homepage": "http://localhost/movies/",
+  "homepage": "http://pixelboogie.com/samples/reactSamples/MovieApp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
